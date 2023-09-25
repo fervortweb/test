@@ -115,4 +115,4 @@ tag_archive:
   path: /tags/
 
 analytics:
-  provider: "google-gtag"  
+  provider: "custom"  
